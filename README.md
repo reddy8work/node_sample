@@ -1,2 +1,2 @@
 # node_sample
-Sample node project
+Sample node project.
